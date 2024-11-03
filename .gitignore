@@ -1,0 +1,32 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# SQLite database file
+*.db
+
+# Logs
+*.log
+
+# Virtual environment folders
+venv/
+.env/
+
+# Ignore emulator and Raspberry Pi image/kernel files
+*.img
+kernel-qemu
+bookworm_raspberry_pi_os_image.img
+raspberry_pi_os_image.img
+
+# Ignore test files
+test_file.txt
+
+# Docker and emulator setup files (adjust if necessary)
+piserver/
+docker-compose.yml
+Dockerfile
+
+# System or IDE-specific files
+.DS_Store
+.idea/
+.vscode/
