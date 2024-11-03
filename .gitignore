@@ -1,6 +1,9 @@
 # Python cache and compiled files
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
 
 # SQLite database file
 *.db
