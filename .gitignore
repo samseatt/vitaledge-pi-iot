@@ -33,3 +33,9 @@ Dockerfile
 .DS_Store
 .idea/
 .vscode/
+
+# Misc temp files
+saved_pi_emulator_terminal_history.txt
+
+docs-wip/
+
